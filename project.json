@@ -1,0 +1,10 @@
+{
+    "name": "Luna_Rov",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Luna_Rov.xml",
+    "author": "cpeavy2",
+    "minimum_firmware_version": 42
+}
